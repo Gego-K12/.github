@@ -9,6 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-gegok12.com-green?style=for-the-badge)](https://gegok12.com)
 [![Documentation](https://img.shields.io/badge/Docs-docs.gegok12.com-blue?style=for-the-badge)](https://docs.gegok12.com)
 [![Developer](https://img.shields.io/badge/Developer-GegoSoft-purple?style=for-the-badge)](https://gegosoft.com)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/Gego-K12/gegok12/blob/main/LICENSE)
 
 </div>
 
@@ -50,19 +51,6 @@ Extend functionality with specialized paid modules:
 - **Alumni Management** - Stay connected with graduates
 - **Quiz & Assessment** - Interactive testing tools
 - **And more...**
-
----
-
-## 📦 Our Repositories
-
-### 🔧 Main Project
-- **[gegok12](https://github.com/Gego-K12/gegok12)** - The core school management system
-
-### 📚 Documentation
-- **[gegok12-documentation](https://github.com/Gego-K12/gegok12-documentation)** - Comprehensive documentation site
-
-### 🎨 Themes & Extensions
-- **Coming Soon** - Custom themes and plugins from our community
 
 ---
 
@@ -125,49 +113,6 @@ Continuous improvements, bug fixes, and new features.
 
 ### ✅ **Professional Support**
 Enterprise support options available for mission-critical deployments.
-
----
-
-## 🌍 Who Uses GegoK12?
-
-GegoK12 is perfect for:
-
-- **K-12 Schools** - Primary and secondary educational institutions
-- **Private Schools** - Independent and private educational organizations
-- **International Schools** - Schools following various curricula
-- **Coaching Centers** - Tutorial and coaching institutes
-- **Educational NGOs** - Non-profit educational organizations
-- **School Chains** - Multi-campus educational groups
-
----
-
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub Stars](https://img.shields.io/github/stars/Gego-K12/gegok12?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Gego-K12/gegok12?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/Gego-K12/gegok12)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Gego-K12/gegok12)
-![License](https://img.shields.io/github/license/Gego-K12/gegok12)
-
-</div>
-
----
-
-## 🤲 How to Contribute
-
-We welcome all contributions! Here's how to get started:
-
-1. **Fork the Repository** - Create your own copy
-2. **Create a Branch** - `git checkout -b feature/amazing-feature`
-3. **Make Changes** - Implement your feature or fix
-4. **Test Thoroughly** - Ensure everything works
-5. **Commit Changes** - `git commit -m 'Add amazing feature'`
-6. **Push to Branch** - `git push origin feature/amazing-feature`
-7. **Open Pull Request** - Submit for review
-
-📖 **Read our [Contributing Guidelines](https://github.com/Gego-K12/gegok12-documentation/blob/main/CONTRIBUTING.md)** for detailed information.
 
 ---
 
