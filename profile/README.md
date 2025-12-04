@@ -126,7 +126,6 @@ Your support helps us:
 - 🏆 Reward contributors
 
 **Interested in sponsoring?**
-- GitHub Sponsors: [sponsor.gegok12.com](https://github.com/sponsors/Gego-K12)
 - Email: sponsor@gegok12.com
 
 ---
